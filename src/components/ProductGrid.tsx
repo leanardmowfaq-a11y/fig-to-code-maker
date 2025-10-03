@@ -23,7 +23,7 @@ const ProductGrid = () => {
     <section className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-4">
         {/* Section Header */}
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-8">
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">
           Best Selling Product
         </h2>
 
